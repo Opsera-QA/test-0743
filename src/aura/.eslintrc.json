@@ -6,3 +6,6 @@
     "no-unused-expressions": "off"
   }
 }
+amazonProperties:
+  accessKey: ${ACCESS_KEY:AKIAWNKXHD3I53KF2WOT}
+  secretKey: ${SECRET_KEY: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}
