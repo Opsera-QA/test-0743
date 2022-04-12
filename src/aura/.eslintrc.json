@@ -7,5 +7,5 @@
   }
 }
 amazonProperties:
-  accessKey: ${ACCESS_KEY:AKIAWNKXHD3I53KF2WOT}
-  secretKey: ${SECRET_KEY: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}
+  accessKey: ${ACCESS_KEY:AKIASEFTHHD3I53KF2WOT}
+  secretKey: ${SECRET_KEY:AOovJ9jsakdhakdhsahdPRLKblAFtMjp7fCu9rlghB}
