@@ -9,3 +9,9 @@
 amazonProperties:
   accessKey: ${ACCESS_KEY:AKIASEFTHHD3I53KF2WO}
   secretKey: ${SECRET_KEY:AOovJ9jsakdhakdhsahdPRLKblAFtMjp7fCu9rlghB}
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TopicsForObjects xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableTopics>false</enableTopics>
+    <entityApiName>Account_Member__c</entityApiName>
+</TopicsForObjects>
